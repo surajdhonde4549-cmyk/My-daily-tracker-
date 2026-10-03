@@ -1,0 +1,7 @@
+{
+  "name": "Somna & Habit - Daily Habit & Sleep Tracker",
+  "description": "A comprehensive daily habit tracking and sleep analytics application with monthly views, streak tracking, sleep debt analysis, and lifestyle insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
